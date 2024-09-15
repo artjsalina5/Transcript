@@ -69,7 +69,7 @@ Qualified on **fast attack nuclear submarines** and **S9G reactor plant** as a s
 
 ## Musical Involvement
 
-In addition to my academic and professional pursuits, I am an active trombonist and arranger. I play in several local bands and am in demand as a performer and arranger throughout Southeast Connecticut and Rhode Island.
+In addition to my academic and professional pursuits, I am an active trombonist and arranger. I play in several local bands and am in demand as a performer and arranger throughout Southeast Connecticut and Rhode Island in commercial and classical idioms.
 
 ---
 
@@ -100,7 +100,7 @@ In addition to my academic and professional pursuits, I am an active trombonist 
 
 ## Unofficial Transcript
 
-You can find my [unofficial transcript here](https://github.com/artjsalina5/unofficial-transcript.pdf).
+You can find my [unofficial transcript here](https://github.com/artjsalina5/Transcript/blob/13aebb4b584a68af28a4f386bcc7005d2f6f9691/Transcript915.pdf).
 
 ---
 
