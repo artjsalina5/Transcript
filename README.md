@@ -6,7 +6,7 @@ Signal Processing Engineer Undergraduate Assistant
 UConn IO Psychology Lab & NIUVT
 
 ## Contact Information
-- **Email**: [arturo.j.salinas@live.com](mailto:artjsalina5@gmail.com)
+- **Email**: [artjsalina5@gmail.com](mailto:artjsalina5@gmail.com)
 - **GitHub**: [artjsalina5](https://github.com/artjsalina5)
 - **LinkedIn**: [Arturo Salinas-Aguayo](https://www.linkedin.com/in/arturo-salinas-aguayo/)
 
