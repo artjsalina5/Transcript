@@ -1,4 +1,4 @@
-# Arturo Salinas-Aguayo
+# Arturo Salinas
 
 **B.S. Candidate, Computer Engineering**  
 University of Connecticut, School of Engineering  
