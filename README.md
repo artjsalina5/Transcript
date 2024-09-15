@@ -75,11 +75,12 @@ In addition to my academic and professional pursuits, I am an active trombonist 
 
 ## Skills & Technologies
 
-- **Programming Languages**: C, Python, MATLAB, CUDA C
-- **Tools & Platforms**: Git, Neovim, Termux, LogicWorks, ESP32 RTOS
-- **Signal Processing**: ECG, BVP, EDA analysis; real-time data visualization in 3D using raytracing.
-- **Hardware**: Experience with tensor processing hardware and reverse engineering bitstreams.
-- **Standards**: Knowledge of ANSI, ISO, POSIX standards
+- **Programming Languages:** C, Python, MATLAB, Verilog, VHDL, CUDA C, lua, Bash, RISC-V Assembly, Vimscript, LaTeX
+- **Tools & Platforms:** Git, Neovim, Termux, LogicWorks, ESP32 RTOS, Docker, Visual Studio, PowerShell
+- **Signal Processing:** ECG, BVP, EDA analysis; real-time data visualization in 3D using raytracing
+- **Hardware:** Tensor processing hardware, FPGA development, Bluetooth HLE bitstream reverse engineering, I2C, UART, JTAG protocols
+- **Systems Engineering:** UNIX, Embedded systems, Parallel Processing
+- **Standards:** Knowledge of ANSI, ISO, POSIX standards
 
 ---
 
