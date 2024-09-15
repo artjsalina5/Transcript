@@ -7,8 +7,10 @@ UConn IO Psychology Lab & NIUVT
 
 ## Contact Information
 - **Email**: [artjsalina5@gmail.com](mailto:artjsalina5@gmail.com)
+- **Resume**: [Resume](https://github.com/artjsalina5/Transcript/blob/e00a2933c4b7d04e676639b30ab1d0c2613e0705/SalinasResume.pdf)
 - **GitHub**: [artjsalina5](https://github.com/artjsalina5)
 - **LinkedIn**: [Arturo Salinas-Aguayo](https://www.linkedin.com/in/arturo-salinas-aguayo/)
+- **Transcript**: [Unofficial transcript](https://github.com/artjsalina5/Transcript/blob/13aebb4b584a68af28a4f386bcc7005d2f6f9691/Transcript915.pdf)
 
 ---
 
