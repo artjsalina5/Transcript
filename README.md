@@ -109,7 +109,7 @@ You can find my [unofficial transcript here](https://github.com/artjsalina5/Tran
 
 ## Certifications & Achievements
 
-- **Dean's List**: ACES (Fall 2023), Engineering (Spring 2024), Engineering (Summer 2024)
+- **Dean's List**: ACES (Fall 2023), Engineering (Spring 2024), Engineering (Summer 2024), Engineering (Spring 2025)
 - **Good Standing**: Consistently maintaining a **3.976 GPA**
 
 ---
